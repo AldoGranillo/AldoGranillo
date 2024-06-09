@@ -31,7 +31,7 @@ Soy estudiante de ingeniería en sistemas inteligentes, busco desarrollarme prof
 - Modelado de datos
 - Analisi de datos
 ## Proyectos 
-- Clasificador de texto con redes neuronales convolucionales (RNC) [].
+- Clasificador de texto con redes neuronales convolucionales (procesamiento del lenguaje natural y redes neuronales) [].
 - Analisis de desempleo en el area metropolitana de Mexico (analisi de mineria de datos) [].
 - Predicción de mortalidad en México: Un análisis comparativo de algoritmos de Machine Learning (articulo de investigacion de mineria de datos y machine learning) [Actualemnte sometido a revision para publicacion]
 - Aplicación de las redes neuronales convolucionales para la detección de COVID-19 en radiografías pulmonares. (articulo de investigacion de mineria de datos y redes neuronales)[]. 
