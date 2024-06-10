@@ -9,7 +9,6 @@ Soy estudiante de ingeniería en sistemas inteligentes, busco desarrollarme prof
   - MongoDb
   - SqlServer
   - R (basic)
-  - Matlab (basic)
   - Java Script
   - Html
   - Css
