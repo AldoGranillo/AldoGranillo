@@ -1,5 +1,5 @@
 # ¡Hola! 👋, Soy Aldo 
-Soy estudiante de ingeniería en sistemas inteligentes, busco desarrollarme profesionalmente en mi area de estudio (Machine learning) especificamente en Data science.
+Soy ingeniero en sistemas inteligentes, busco desarrollarme profesionalmente en mi area de estudio (Machine learning) especificamente en Data science.
 - Perfil de Linkedin:
   www.linkedin.com/in/aldo-ruben-granillo-iturbe-212b3a291
 ## Habilidades
