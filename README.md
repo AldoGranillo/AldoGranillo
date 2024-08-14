@@ -43,7 +43,6 @@ Soy ingeniero en sistemas inteligentes, buscando desarrollarme profesionalmente 
 
 ## Contacto
 - Correo Electrónico: alsognilo@gmail.com
-- Número de Contacto: +52 55 4710 1319
 
 ## Licencia
 Este repositorio está bajo la licencia MIT.
